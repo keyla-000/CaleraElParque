@@ -69,7 +69,7 @@ header ul li a{
     color:var(--color2-opacity);
     text-decoration: none;
     letter-spacing: 2px;
-    font-size: 1em;
+    font-size: 0.9em;
     padding: 20px 20px;
 
 }
@@ -609,7 +609,7 @@ padding: 50px 0px 50px 35px;
 }
 
 .footer_icons {
-    font-size: 20px;
+    font-size: 2em;
     display: inline-flex;
     cursor: pointer;
 }
