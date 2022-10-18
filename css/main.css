@@ -490,12 +490,10 @@ transform: scale(1.1);
 
 .contact_form h2 {
     color:var(--color3);
-}
-
-.contact_form .subtitle_form {
     font-size: 1.7em;
     padding: 50px 0px;
     font-weight:300;
+    font-weight: lighter;
 }
 
 .mxw800p {
@@ -526,7 +524,6 @@ padding-bottom: 40px;
 
 .contact_form h2 span {
     color:var(--color2);
-    font-weight: lighter;
 }
 
 .mxw800p .contact_info div ul li {font-size: 1em;}
